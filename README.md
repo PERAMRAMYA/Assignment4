@@ -13,7 +13,7 @@ Please install the following modules/libraries of python before running code
 
 
 There are two main files
-- [Assignment4.ipynb](https://github.com/PERAMRAMYA/Assignment4)
+- [Assignment4.ipynb](https://github.com/PERAMRAMYA/Assignment4/blob/main/Assignment%204.ipynb))
   - please run this file in jupyter notebook for results
   
 ---
